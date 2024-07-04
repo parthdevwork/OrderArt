@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "195458185366",
+    "firebase_url": "https://orderart-ac4e9.firebaseio.com",
+    "project_id": "orderart-ac4e9",
+    "storage_bucket": "orderart-ac4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195458185366:android:4335ad70998da9a0482ab7",
+        "android_client_info": {
+          "package_name": "com.orderart.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195458185366-0qrqa67p7g541uh2d0fhr3a9nom00tta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orderart.admin",
+            "certificate_hash": "0e3a4c666b6bdba0924d24956e8084f141b89d30"
+          }
+        },
+        {
+          "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkTTf-s2w7q7HtiYq7UGZUlgKxo-ipH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195458185366-icb3538un8u10m86elpf285ss14bdl24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orderart.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195458185366:android:1003c2560d28178b482ab7",
+        "android_client_info": {
+          "package_name": "com.orderart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195458185366-21ao6hmns55io61mjft27nr79shcn3tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orderart.app",
+            "certificate_hash": "0e3a4c666b6bdba0924d24956e8084f141b89d30"
+          }
+        },
+        {
+          "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkTTf-s2w7q7HtiYq7UGZUlgKxo-ipH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195458185366-icb3538un8u10m86elpf285ss14bdl24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orderart.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195458185366:android:61675c22fa49146e482ab7",
+        "android_client_info": {
+          "package_name": "com.orderart.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkTTf-s2w7q7HtiYq7UGZUlgKxo-ipH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195458185366-n2vn02ka1hpbeqpanagtelq3h66vcsfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195458185366-icb3538un8u10m86elpf285ss14bdl24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orderart.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
